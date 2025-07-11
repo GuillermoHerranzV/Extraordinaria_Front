@@ -1,0 +1,42 @@
+{
+  "build_id": "9f1585dfbe755100922dd01f6ca3c0180b5ac683",
+  "files": {
+    "main.js": [
+      "chunk-GI7LLYGM.js",
+      "chunk-JP5XG2OT.js",
+      "chunk-Z47A3HLT.js"
+    ],
+    "deserializer.js": [
+      "chunk-Z47A3HLT.js"
+    ],
+    "signals.js": [
+      "chunk-GI7LLYGM.js",
+      "chunk-EX6SY4DB.js",
+      "chunk-JP5XG2OT.js",
+      "chunk-Z47A3HLT.js"
+    ],
+    "chunk-GI7LLYGM.js": [],
+    "island-showcharacter.js": [
+      "chunk-JSWHUAFZ.js",
+      "chunk-EX6SY4DB.js",
+      "chunk-JP5XG2OT.js",
+      "chunk-Z47A3HLT.js"
+    ],
+    "island-showcharacters.js": [
+      "chunk-JSWHUAFZ.js",
+      "chunk-EX6SY4DB.js",
+      "chunk-JP5XG2OT.js",
+      "chunk-Z47A3HLT.js"
+    ],
+    "chunk-JSWHUAFZ.js": [
+      "chunk-JP5XG2OT.js",
+      "chunk-Z47A3HLT.js"
+    ],
+    "chunk-EX6SY4DB.js": [
+      "chunk-JP5XG2OT.js"
+    ],
+    "chunk-JP5XG2OT.js": [],
+    "chunk-Z47A3HLT.js": [],
+    "metafile.json": []
+  }
+}
